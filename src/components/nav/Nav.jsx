@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import Aos from "aos";
@@ -11,15 +11,8 @@ function Nav() {
     setOpen(!open);
   };
 
-  useEffect(() => {
-    Aos.init({ duration: 2000 });
-  }, []);
-
   return (
-    <div
-      className="w-screen h-auto flex flex-col md:flex-row md:justify-between  text-complement  "
-      data-aos="fade-up-right"
-    >
+    <div className="w-screen h-auto flex flex-col md:flex-row md:justify-between  text-complement  ">
       <div className=" w-screen h-12 flex  justify-between py-3 px-4 md:w-[10rem] md:px-1 ">
         <h2 className="font-bold text-xl ml-2 md:text-4xl md:ml-16 md:mt-6 text-tertiary lg:ml-20 ">
           PEDRO
