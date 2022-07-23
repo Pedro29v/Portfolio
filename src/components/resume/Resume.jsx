@@ -19,7 +19,7 @@ function Resume() {
           lg:shadow-primary lg:rounded-md lg:p-2 hover:shadow-sm transition-all duration-1000 lg:hover:bg-primary lg:hover:rounded-sm "
           >
             <p>
-              <strong>Titulo:</strong> Técnico superior universitario
+              <strong>Titulo:</strong> Técnico superior universitario en Informática
             </p>
             <p>
               <strong>Instituto:</strong> Instituto Universitario De Tecnología
