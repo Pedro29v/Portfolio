@@ -2,6 +2,7 @@ import React from "react";
 import dog from "../../img/dog.png";
 import ecom from "../../img/ecommerce.png";
 import netflix from "../../img/netflix.png";
+import dolarblue from "../../img/dolarBlue.png";
 
 function Work() {
   return (
@@ -67,10 +68,30 @@ function Work() {
             <div className="w-full h-32 rounded">
               <img
                 src={netflix}
-                alt="ecommerce"
+                alt="clon de netflix"
                 className="w-full h-full rounded"
               ></img>
               <div className="mt-4">Clon de Netflix</div>
+            </div>
+          </a>
+        </div>
+
+        <div
+          className="w-[15rem] h-[13rem] lg:w-[20rem] lg:h-[15rem] bg-primary m-auto rounded-md p-4
+        lg:hover:shadow-xl lg:hover:shadow-black lg:hover:bg-secondary  transition-all duration-1000 hover:scale-125 "
+        >
+          <a
+            href="https://dollar-blue-price.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="w-full h-32 rounded">
+              <img
+                src={dolarblue}
+                alt="dolar Blue"
+                className="w-full h-full rounded"
+              ></img>
+              <div className="mt-4">Dolar Blue Price</div>
             </div>
           </a>
         </div>
