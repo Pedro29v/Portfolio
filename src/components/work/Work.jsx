@@ -3,6 +3,7 @@ import dog from "../../img/dog.png";
 import ecom from "../../img/ecommerce.png";
 import netflix from "../../img/netflix.png";
 import dolarblue from "../../img/dolarBlue.png";
+import jobApp from "../../img/jobApp.png"
 
 function Work() {
   return (
@@ -23,6 +24,23 @@ function Work() {
           className="w-[15rem] h-[13rem] lg:w-[20rem] lg:h-[15rem] bg-primary  m-auto rounded-md p-4
         lg:hover:shadow-xl lg:hover:shadow-black lg:hover:bg-secondary  transition-all duration-1000 hover:scale-125 "
         >
+
+<a
+            href="https://job-henna.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="w-full h-32 rounded">
+              <img
+                src={jobApp}
+                alt="Job Applications"
+                className="w-full h-full rounded"
+              ></img>
+              <div className="mt-4">Job Applications</div>
+            </div>
+          </a>
+        </div>
+
           <a
             href="https://dogs-app-tau.vercel.app/"
             target="_blank"
