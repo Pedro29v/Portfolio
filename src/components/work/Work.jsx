@@ -4,6 +4,7 @@ import ecom from "../../img/ecommerce.png";
 import netflix from "../../img/netflix.png";
 import dolarblue from "../../img/dolarBlue.png";
 import jobApp from "../../img/jobApp.png";
+import blog from "../../img/blog.png";
 
 function Work() {
   return (
@@ -74,7 +75,7 @@ function Work() {
                 className="w-full h-full rounded"
               ></img>
             </div>
-            <div className="mt-4">E-commerce Frre Style</div>
+            <div className="mt-4">E-commerce Free Style</div>
           </a>
         </div>
 
@@ -114,6 +115,26 @@ function Work() {
                 className="w-full h-full rounded"
               ></img>
               <div className="mt-4">Dolar Blue Price</div>
+            </div>
+          </a>
+        </div>
+
+        <div
+          className="w-[15rem] h-[13rem] lg:w-[20rem] lg:h-[15rem] bg-primary m-auto rounded-md p-4
+        lg:hover:shadow-xl lg:hover:shadow-black lg:hover:bg-secondary  transition-all duration-1000 hover:scale-125 "
+        >
+          <a
+            href="https://teste-pratico-frontend-nine.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="w-full h-32 rounded">
+              <img
+                src={blog}
+                alt="blog"
+                className="w-full h-full rounded"
+              ></img>
+              <div className="mt-4">Blog Json Placeholder</div>
             </div>
           </a>
         </div>
