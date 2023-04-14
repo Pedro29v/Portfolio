@@ -10,7 +10,7 @@ function Contact() {
         data-aos="fade-up"
         className="text-3xl md:text-4xl  text-complement mt-4"
       >
-        Contacto
+        Contact
       </h2>
 
       <div

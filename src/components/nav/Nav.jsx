@@ -25,19 +25,19 @@ function Nav() {
       <div className="hidden  md:flex md:w-[45rem] md:pt-7 md:font-bold md:justify-between md:px-4 md:text-[1em] md:mt-4 md:mr-4 lg:mr-8 lg-pt-7  ">
         <a href="#about">
           <p className="md:ml-16 hover:text-tertiary transition hover:transform hover:skew-y-12">
-            Sobre mi
+            About me
           </p>
         </a>
 
         <a href="#skills">
           <p className=" hover:text-tertiary transition hover:transform hover:skew-y-12">
-            Habilidades
+            Skills
           </p>
         </a>
 
         <a href="#resume">
           <p className=" hover:text-tertiary transition hover:transform hover:skew-y-12">
-            Experiencia
+            Experience
           </p>
         </a>
 
@@ -49,7 +49,7 @@ function Nav() {
 
         <a href="#contact">
           <p className="md:mr-12 hover:text-tertiary transition hover:transform hover:skew-y-12">
-            Contacto
+            Contact
           </p>
         </a>
       </div>

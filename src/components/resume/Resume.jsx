@@ -8,25 +8,26 @@ function Resume() {
         className="text-3xl md:text-4xl 
        text-complement mt-4 "
       >
-        Experiencia
+        Experience
       </h2>
 
       <div className=" lg:grid lg:grid-cols-2 ">
         <div className="px-4  p-2 md:mt-8 lg:mt-4 " data-aos="fade-up">
-          <p className="text text-2xl mt-6 lg:mt-4">Educación</p>
+          <p className="text text-2xl mt-6 lg:mt-4">Education</p>
           <div
             className="text-left px-4 mt-4 md:text-lg md:mt-6 lg:shadow-md 
           lg:shadow-primary lg:rounded-md lg:p-2 hover:shadow-sm transition-all duration-1000 lg:hover:bg-primary lg:hover:rounded-sm "
           >
             <p>
-              <strong>Titulo:</strong> Técnico superior universitario en Informática
+              <strong>Title:</strong> Higher University Technician in Computer
+              Science
             </p>
             <p>
-              <strong>Instituto:</strong> Instituto Universitario De Tecnología
+              <strong>Institute:</strong> Instituto Universitario De Tecnología
               del Estado Bolívar. Venezuela
             </p>
             <p>
-              <strong>Finalizado en: </strong> 2016
+              <strong>Finished in: </strong> 2016
             </p>
           </div>
 
@@ -35,12 +36,12 @@ function Resume() {
           lg:shadow-primary lg:rounded-sm lg:p-2 hover:shadow-sm transition-all duration-1000 lg:hover:bg-primary lg:hover:rounded-sm"
           >
             <p>
-              <strong>Titulo:</strong> Full Stack Developer
+              <strong>Title:</strong> Full Stack Developer
             </p>
             <p>
-              <strong>Instituto:</strong> Henry Bootcamp. Argentina
+              <strong>Institute:</strong> Henry Bootcamp. Argentina
             </p>
-            <strong>Finalizado en: </strong> 2022
+            <strong>Finished in: </strong> 2022
           </div>
 
           <div
@@ -48,32 +49,32 @@ function Resume() {
           lg:shadow-primary lg:rounded-sm lg:p-2 hover:shadow-sm transition-all duration-1000 lg:hover:bg-primary lg:hover:rounded-sm"
           >
             <p>
-              <strong>Titulo:</strong> HTML Web Developer
+              <strong>Title:</strong> HTML Web Developer
             </p>
             <p>
-              <strong>Instituto:</strong> Digital Innovation One Inc. Brasil
+              <strong>Institute:</strong> Digital Innovation One Inc. Brasil
             </p>
-            <strong>Finalizado en: </strong> 2021
+            <strong>Finished in: </strong> 2021
           </div>
         </div>
 
         <div className="px-4 p-2 " data-aos="fade-up">
-          <p className="text text-2xl mt-6 md:mt-10 lg:mt-8">Experiencia</p>
+          <p className="text text-2xl mt-6 md:mt-10 lg:mt-8">Projects</p>
 
           <div
             className="px-4 text-justify mt-4 md:text-lg md:mt-6 lg-mt2 lg:w-[39.5rem] lg:shadow-md
           lg:shadow-primary lg:rounded-sm lg:p-4 hover:shadow-sm transition-all duration-1000 lg:hover:bg-primary lg:hover:rounded-sm"
           >
             <p>
-              <strong>Proyecto: </strong>App Dogs
+              <strong>Project: </strong>App Dogs
             </p>
             <p>
-              <strong>Descripción: </strong>
-              Diseño y desarrollo de una app sobre razas de perros que incluye:
-              búsquedas, filtrados, ordenamientos y creación. En este proyecto
-              afiancé mis conocimientos sobre React y Redux, el consumo de APIS,
-              el uso de PostgreSQL para base de datos y el uso de Node js para
-              el back end.
+              <strong>Description: </strong>
+              Design and development of an app about dog breeds that includes:
+              searches, filtering, sorting and creation. In this project I
+              strengthened my knowledge about React and Redux, the use of APIS,
+              the use of PostgreSQL for database and the use of Node js for the
+              back end.
             </p>
           </div>
 
@@ -82,14 +83,15 @@ function Resume() {
           lg:shadow-primary lg:rounded-sm lg:p-2 hover:shadow-sm transition-all duration-1000 lg:hover:bg-primary lg:hover:rounded-sm"
           >
             <p>
-              <strong>Proyecto: </strong>E-commerce
+              <strong>Project: </strong>E-commerce
             </p>
             <p>
-              <strong>Descripción: </strong>
-              Desarrollo de Ecommerce de ropa y accesorios en el que trabaje
-              como desarrollador front end. Por medio de este proyecto aprendi a
-              realizar un login utilizando firebase, tuve mi primera experiencia
-              trabajando con la metodologia Scrum y mejore el manejo de git.
+              <strong>Description: </strong>
+              Ecommerce development of clothing and accessories in which I
+              worked as a front end developer. as a front end developer. Through
+              this project I learned how to login using firebase, I had my first
+              experience working with the Scrum methodology experience working
+              with Scrum methodology and improved my git management.
             </p>
           </div>
         </div>

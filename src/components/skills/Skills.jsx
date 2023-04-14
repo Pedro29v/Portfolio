@@ -8,7 +8,7 @@ function Skills() {
           data-aos="fade-up"
           className="text-3xl md:text-4xl  text-complement mt-4"
         >
-          Habilidades Técnicas
+          Hard Skills
         </h2>
         <div
           data-aos="fade-up"
@@ -84,16 +84,16 @@ function Skills() {
         data-aos="fade-up"
       >
         <h2 className="text-3xl md:text-4xl   mt-4 md:mt-10 lg:mt-[8rem] ">
-          Idiomas
+          Languages
         </h2>
         <div className="mt-6 hover:animate-ping cursor-pointer ">
-          English - B1 Intermedio
+          English - B1 Intermediate
         </div>
         <div className="mt-2 hover:animate-ping cursor-pointer ">
-          Portugues - Avanzado
+          Portuguese - Advanced
         </div>
         <div className="mt-2 hover:animate-ping cursor-pointer ">
-          Español - Nativo
+          Spanish - Native
         </div>
       </div>
     </div>

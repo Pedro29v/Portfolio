@@ -12,7 +12,7 @@ function About() {
       <div className="lg:w-[50%] p-2 lg:mt-10  ">
         <h2 className="text-3xl md:text-4xl mt-4 md:mt-10 " data-aos="fade-up ">
           {" "}
-          Sobre mi
+          About me
         </h2>
 
         <div
@@ -21,12 +21,12 @@ function About() {
           py-2 px-4 md:mt-8 text-justify lg:mt-10 lg:w-[25rem]  "
         >
           <p className="px-4 ">
-            <strong className="bg-secondary">Hola! soy Pedro. </strong>
-            Full Stack Developer que lucha constantemente por crecer en todos
-            los aspectos de la vida. Tengo como objetivo aportar mi experiencia
-            y conocimiento para crear soluciones que contribuyan al desarrollo
-            de las personas, empresas y la sociedad en general. Y continuar
-            aprendiendo cada dia para ser un mejor desarrollador.
+            <strong className="bg-secondary">Hi! I'm Pedro. </strong>
+            Full Stack Developer who constantly strives to grow in all aspects
+            of life. My goal is to contribute my experience and knowledge to
+            create solutions that contribute to the development of people,
+            companies and society in general. And continue learning every day to
+            be a better developer.
           </p>
         </div>
         <div data-aos="fade-up" className=" md:mt-14 ">
@@ -46,7 +46,7 @@ function About() {
       </div>
 
       <div className="p-2   lg:mt-10" data-aos="fade-up">
-        <h2 className="text-3xl md:text-4xl mt-4 ">Mis hobbies</h2>
+        <h2 className="text-3xl md:text-4xl mt-4 ">My hobbies</h2>
         <div
           className="grid grid-cols-2 gap-4 py-5 mt-6 md:w-[35rem]
            md:m-auto md:mt-10 lg:mt-16  "
@@ -57,7 +57,7 @@ function About() {
               alt="viajes"
               className="m-auto mt-2 md:mt-6 "
             ></img>
-            Viajes
+            Travel
           </div>
 
           <div className="w-32 h-28 shadow-md shadow-primary m-auto rounded-md md:w-40 md:h-36 animate-bounce">
@@ -66,12 +66,12 @@ function About() {
               alt="naturaleza"
               className="m-auto mt-2 md:mt-6  "
             ></img>
-            Naturaleza
+            Nature
           </div>
 
           <div className="w-32 h-28 shadow-md shadow-primary m-auto rounded-md md:w-40 md:h-36 animate-bounce ">
             <img src={cinema} alt="cine" className="m-auto mt-2 md:mt-6 "></img>
-            Cine
+            Movies
           </div>
           <div className="w-32 h-28 shadow-md shadow-primary m-auto rounded-md md:w-40 md:h-36 animate-bounce ">
             <img
@@ -79,7 +79,7 @@ function About() {
               alt="deportes"
               className="m-auto mt-2 md:mt-6 "
             ></img>
-            Deportes
+            Sports
           </div>
         </div>
         <div className=" md:mt-20 lg:hidden mb-4 ">
