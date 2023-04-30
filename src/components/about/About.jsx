@@ -21,12 +21,16 @@ function About() {
           py-2 px-4 md:mt-8 text-justify lg:mt-10 lg:w-[25rem]  "
         >
           <p className="px-4 ">
-            <strong className="bg-secondary">Hi! I'm Pedro. </strong>
-            Full Stack Developer who constantly strives to grow in all aspects
-            of life. My goal is to contribute my experience and knowledge to
-            create solutions that contribute to the development of people,
-            companies and society in general. And continue learning every day to
-            be a better developer.
+            <strong className="bg-secondary">
+              Hello there! My name is Pedro,{" "}
+            </strong>
+            and I'm a Full Stack Developer who is always looking for
+            opportunities to grow and improve in all areas of my life. My
+            objective is to leverage my expertise and experience to develop
+            solutions that make a positive impact on people, businesses, and
+            society at large. Additionally, I am committed to continuing my
+            learning journey every day, so that I can become an even better
+            developer.
           </p>
         </div>
         <div data-aos="fade-up" className=" md:mt-14 ">

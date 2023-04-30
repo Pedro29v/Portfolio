@@ -2,9 +2,9 @@ import React from "react";
 import dog from "../../img/dog.png";
 import ecom from "../../img/ecommerce.png";
 import netflix from "../../img/netflix.png";
-import dolarblue from "../../img/dolarBlue.png";
 import jobApp from "../../img/jobApp.png";
 import blog from "../../img/blog.png";
+import taskApp from "../../img/taskApp.png";
 
 function Work() {
   return (
@@ -104,17 +104,17 @@ function Work() {
         lg:hover:shadow-xl lg:hover:shadow-black lg:hover:bg-secondary  transition-all duration-1000 hover:scale-125 "
         >
           <a
-            href="https://dollar-blue-price.vercel.app/"
+            href="https://task-app-next.vercel.app/new"
             target="_blank"
             rel="noreferrer"
           >
             <div className="w-full h-32 rounded">
               <img
-                src={dolarblue}
-                alt="dolar Blue"
+                src={taskApp}
+                alt="Task App"
                 className="w-full h-full rounded"
               ></img>
-              <div className="mt-4">Dolar Blue Price</div>
+              <div className="mt-4">Task App</div>
             </div>
           </a>
         </div>
