@@ -28,9 +28,7 @@ function About() {
             opportunities to grow and improve in all areas of my life. My
             objective is to leverage my expertise and experience to develop
             solutions that make a positive impact on people, businesses, and
-            society at large. Additionally, I am committed to continuing my
-            learning journey every day, so that I can become an even better
-            developer.
+            society at large.
           </p>
         </div>
         <div data-aos="fade-up" className=" md:mt-14 ">
