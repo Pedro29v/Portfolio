@@ -20,7 +20,7 @@ function Info() {
           Pedro Castillo
         </h1>
         <p className="text-complement mt-2 md:text-2xl md:mt-2 ">
-          Front End Developer
+          Full Stack Developer
         </p>
         <div className="w-[50%]  flex justify-evenly m-auto mt-10 md:w-[25%] ">
           <a
