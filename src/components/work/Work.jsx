@@ -45,23 +45,6 @@ function Work() {
 
         <div
           className="w-[15rem] h-[13rem] lg:w-[20rem] lg:h-[15rem] bg-primary  m-auto rounded-md p-4
-        lg:hover:shadow-xl lg:hover:shadow-black lg:hover:bg-secondary  transition-all duration-1000 hover:scale-125 "
-        >
-          <a
-            href="https://dogs-app-tau.vercel.app/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <div className="w-full h-32 rounded">
-              <img src={dog} alt="dog" className="w-full h-full rounded"></img>
-            </div>
-
-            <div className="mt-4">Dogs App</div>
-          </a>
-        </div>
-
-        <div
-          className="w-[15rem] h-[13rem] lg:w-[20rem] lg:h-[15rem] bg-primary  m-auto rounded-md p-4
         lg:hover:shadow-xl lg:hover:shadow-black lg:hover:bg-secondary  transition-all duration-1000 hover:scale-125"
         >
           <a
