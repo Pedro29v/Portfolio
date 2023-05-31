@@ -87,7 +87,7 @@ function Skills() {
           Languages
         </h2>
         <div className="mt-6 hover:animate-ping cursor-pointer ">
-          English - B1 Intermediate
+          English - Intermediate
         </div>
         <div className="mt-2 hover:animate-ping cursor-pointer ">
           Portuguese - Advanced
